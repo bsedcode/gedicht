@@ -1,4 +1,4 @@
-#1 Farbpalette
+Farbpalette
 
 Rot
 Grün
